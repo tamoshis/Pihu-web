@@ -432,5 +432,5 @@ function heartRain(){
   }  
 }  
 </script>  </body>  
-</html>  Make this html a web in qr code
+
 
